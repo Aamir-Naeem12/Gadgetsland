@@ -1,67 +1,26 @@
 {
   "redirects": [
     {
-      "destination": "https://shubhamverma.me/blog",
+      "destination": "https://meettoday.space/blog",
       "source": "/(blogs|blog)"
     },
     {
-      "destination": "https://shubhamverma.me/blog/:slug",
+      "destination": "https://meettoday.space/blog/:slug",
       "source": "/blog/:slug"
+    
     },
     {
-      "destination": "https://drive.google.com/file/d/1WL5bIjipkpulVW6a3gcwHgMGpvvU6IFq/view",
-      "source": "/(resume|cv)"
-    },
-    {
-      "destination": "https://shubhamverma.me/socials",
+      "destination": "https://meettoday.space/socials",
       "source": "/(socials|social)"
-    },
-    {
-      "destination": "https://github.com/ShubhamVerma1811",
-      "source": "/(github|gh)"
-    },
-    {
-      "destination": "https://linkedin.com/in/shubhamverma1811",
-      "source": "/(linkedin|lh|li)"
-    },
-    {
-      "destination": "https://twitter.com/verma__shubham",
-      "source": "/(twitter|tw)"
-    },
-    {
-      "destination": "https://dev.to/shubhamverma",
-      "source": "/(devto)"
-    },
-    {
-      "destination": "https://open.spotify.com/user/shubhamverma1811",
-      "source": "/(spotify|sp)"
-    },
-    {
-      "destination": "https://instagram.com/_.shubham.verma._",
-      "source": "/(instagram|ig)"
-    },
-    {
-      "destination": "https://github.com/ShubhamVerma1811/roc8-talk",
-      "source": "/roc8-talk"
-    },
-    {
-      "destination": "https://cal.com/shubhamverma",
-      "source": "/(cal|calender|calendar)"
-    },
-    {
-      "destination": "https://strava.com/athletes/shubhamverma",
-      "source": "/(strava)"
+   
     },
     {
       "destination": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
       "source": "/(promise|bye|thanks)"
+    
     },
     {
-      "destination": "https://shubhamverma.me/talks",
-      "source": "/(talks|talk)"
-    },
-    {
-      "destination": "https://shubhamverma.me",
+      "destination": "https://meettoday.space",
       "source": "/(.*)"
     }
   ]
