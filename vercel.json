@@ -8,4 +8,10 @@
       "destination": "https://meettoday.space/blog/:slug",
       "source": "/blog/:slug"
     
-   
+   },
+    {
+      "destination": "https://meettoday.space",
+      "source": "/(.*)"
+    }
+  ]
+}
